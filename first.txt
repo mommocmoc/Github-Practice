@@ -1,4 +1,4 @@
-First
+First and Second Branch
 
 First is the first thing I can see.
 First is the first person I can see.
@@ -11,3 +11,6 @@ Second is the second moment I can feel.
 Third is the third thing I can see.
 Third is the third person I can see.
 Third is the third moment I can feel.
+
+I made the second branch.
+And that's the moment : the birth of the second branch.
