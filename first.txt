@@ -14,3 +14,6 @@ Third is the third moment I can feel.
 
 I made the second branch.
 And that's the moment : the birth of the second branch.
+
+This is the master branch. 
+Master can be merged with another branch.
